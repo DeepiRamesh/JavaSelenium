@@ -1,0 +1,20 @@
+//65.To check add or even
+package com.method;
+
+public class AddAndEven {
+
+	public static void main(String[] args) {
+		 int num = 10;
+		 
+	        if (num % 2 == 0) {
+	 
+	            System.out.println("Entered Number is Even");
+	        }
+	        else {
+	        	 
+	         
+	            System.out.println("Entered Number is Odd");
+	        }
+	}
+
+}

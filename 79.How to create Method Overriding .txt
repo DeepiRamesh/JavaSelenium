@@ -1,0 +1,4 @@
+79.How to create Method Overriding program in java
+This method must have the same name as in the parent class.
+This method must have the same parameters as in the parant class.
+There must be an inheritance relationship.

@@ -1,0 +1,12 @@
+10.Write test scenario for Credit Cards
+
+1.Check whether the bank name appears over the credit card.
+2.Check if the logo of the respective bank displayed.
+3.Check the type of the credit card logo is diplaying properly.
+4.Check if the credit card number is displaying clearly.
+5.Check if the expiry date is visible.
+6.Check whether the CVV number is diplaying clearly on the backside of the card.
+7.Check whether the user name is displaying properly.
+8.Check if the weight of the card is as per the document specification. 
+9.Check if the user can perform the transaction with an invalid pin.
+10.Check for the valid user number.
